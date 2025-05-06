@@ -1,0 +1,4 @@
+filter_is_whitelist = false
+
+[filter]
+list = ["gaussfire.ConvenientInventory"]
