@@ -1,4 +1,7 @@
-filter_is_whitelist = false
+[general]
+game_path = "auto"
+staging_path = "staging/"
 
 [filter]
+filter_is_whitelist = true
 list = ["gaussfire.ConvenientInventory"]
